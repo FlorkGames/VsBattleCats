@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bubble.png">
+<SubTexture name="moving0000" x="0" y="0" width="128" height="125" frameX="0" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0001" x="0" y="0" width="128" height="125" frameX="3" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0002" x="0" y="0" width="128" height="125" frameX="6" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0003" x="0" y="0" width="128" height="125" frameX="9" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0004" x="0" y="0" width="128" height="125" frameX="12" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0005" x="0" y="0" width="128" height="125" frameX="9" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0006" x="0" y="0" width="128" height="125" frameX="6" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0007" x="0" y="0" width="128" height="125" frameX="3" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0008" x="0" y="0" width="128" height="125" frameX="0" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0009" x="0" y="0" width="128" height="125" frameX="-3" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0010" x="0" y="0" width="128" height="125" frameX="-6" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0011" x="0" y="0" width="128" height="125" frameX="-9" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0012" x="0" y="0" width="128" height="125" frameX="-12" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0013" x="0" y="0" width="128" height="125" frameX="-9" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0014" x="0" y="0" width="128" height="125" frameX="-6" frameY="0" frameWidth="128" frameHeight="125" />
+<SubTexture name="moving0015" x="0" y="0" width="128" height="125" frameX="-3" frameY="0" frameWidth="128" frameHeight="125" />
+</TextureAtlas>
