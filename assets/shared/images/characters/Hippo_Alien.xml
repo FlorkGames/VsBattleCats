@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hippo_Alien.png">
+<SubTexture name="Idle0000" x="0" y="0" width="106" height="88" frameX="-1" frameY="-2" frameWidth="108" frameHeight="91" />
+<SubTexture name="Walk0000" x="106" y="0" width="106" height="89" frameX="-1" frameY="-1" frameWidth="108" frameHeight="91" />
+<SubTexture name="Walk0001" x="0" y="0" width="106" height="88" frameX="-1" frameY="-2" frameWidth="108" frameHeight="91" />
+<SubTexture name="Walk0002" x="0" y="89" width="105" height="89" frameX="-2" frameY="-1" frameWidth="108" frameHeight="91" />
+<SubTexture name="Walk0003" x="0" y="0" width="106" height="88" frameX="-1" frameY="-2" frameWidth="108" frameHeight="91" />
+<SubTexture name="Attack0000" x="105" y="89" width="100" height="108" frameX="-1" frameY="20" frameWidth="112" frameHeight="111" />
+<SubTexture name="Attack0001" x="0" y="197" width="100" height="110" frameX="-1" frameY="22" frameWidth="112" frameHeight="111" />
+<SubTexture name="Attack0002" x="100" y="197" width="110" height="70" frameX="-1" frameY="-18" frameWidth="112" frameHeight="111" />
+</TextureAtlas>
